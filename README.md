@@ -1,5 +1,12 @@
 Generate QR Codes to accept Solana easily.
 
-This is some kind of proof of concept to show how Solana Pay works.
+This project was made to be able to use a Raspberry Pi and other mini pc with 3.5 inch screen to make payments in stores or businesses, we used the basis of Solana Pay.
 
-If you discover an issue or want to contribute, open an Issue/a PR.
+
+To be able to use and run, it uses the following in this order:
+
+npm i --force
+-------------------
+npm run dev
+
+and enjoy :)
